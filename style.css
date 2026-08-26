@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap');
 
 :root {
-  --bg: #f5f7f4;
-  --ink: #14221f;
-  --muted: #64716d;
-  --accent: #1e7a67;
-  --accent-light: #dceee8;
+  --bg: #faf6f5;
+  --ink: #241718;
+  --muted: #75686a;
+  --accent: #b3262e;
+  --accent-light: #f3dfe0;
   --card: #ffffff;
-  --line: #cbd8d3;
+  --line: #dec9ca;
 }
 
 * { box-sizing: border-box; }
@@ -134,7 +134,7 @@ h1 {
   font: 600 40px/1.1 "Space Grotesk", sans-serif;
   margin: 10px 0;
 }
-.quick-intro p:last-child { color: #c8d3d0; max-width: 520px; }
+.quick-intro p:last-child { color: #ded0d1; max-width: 520px; }
 
 footer {
   max-width: 1180px;
